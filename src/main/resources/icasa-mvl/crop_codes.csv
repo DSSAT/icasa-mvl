@@ -131,7 +131,7 @@ CRID,STR,Shrubs/trees,(various),NA,,,ST,Tree,,C3,Perennial,,,,,N,,,,Various,,,,,
 CRID,STV,Stevia,Stevia rebaudiana,Artificial sweetener,,,SV,,,,Perennial,,,Leaves,,N,Seeds,Cuttings,en.wikipedia.org/wiki/Stevia_rebaudiana,Various,,,,,,
 CRID,SUC,Sugarcane,Saccharum spp. ,Sugar,,,SC,Sugar,,C4,Perennial,,,Stem,,N,Stem cutting,,,Sugar/Energy,SCCAN,CANEGRO-Sugarcane,SCCSP,CASUPRO-Sugarcane,SCSAM,SAMUCA-Sugarcane
 CRID,SUN,Sunflower,Helianthus annuus ,Oil seed,,,SU,Sunflower,,C3,Annual,,,Seed,,N,Seed,,,Oil crops,CRGRO,CROPGRO-Sunflower,SUOIL,OILCROP-Sunflower,,
-CRID,SWC,Sweet corn,Zea mays,Vegetable,,,SW,Sweetcorn,,C4,Annual,,,Seed,,N,Seed,,,Vegetables,SWCER,CERES-Sweetcorn,,,,
+CRID,SWC,Sweet corn,Zea mays,Vegetable,,,SW,,,C4,Annual,,,Seed,,N,Seed,,,Vegetables,SWCER,CERES-Sweetcorn,,,,
 CRID,SWG,Switch grass,Panicum virgatum,Bioenergy,Forage,,SI,Switchgrass,,C3,Perennial,,,Seed,,N,Seed,,en.wikipedia.org/wiki/Panicum_virgatum,Sugar/Energy,,,,,,
 CRID,SWP,Sweet potato,Ipomoea batata,Root crop,,,SP,Sweetpotato,Sweet potato ,C3,Annual,,,Root,Date,N,Stem cutting,"Root cutting, slips",,Root Crops,,,,,,
 CRID,TAN,Tannier,Xanthosoma spp,Tuber crop,,,TN,Tanier,,C3,Annual,,,Corm,,N,Corm pieces,,en.wikipedia.org/wiki/Xanthosoma,Root Crops,TNARO,AROIDS-Tanier,,,,
