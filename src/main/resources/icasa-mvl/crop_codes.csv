@@ -125,7 +125,7 @@ CRID,SGG,Sorghum,Sorghum bicolor ,Cereal,"Forage, bioenergy",,SG,,,C4,Annual,,,S
 CRID,SHL,Shallot,Allium cepa,Vegetable,,,,,,C3,Annual,,,Seed,,N,,,,Vegetables,,,,,,
 CRID,SPN,Spinach,Spinacia oleracea,Vegetable,,,,,,C3,Annual,LD,,Leaf,,N,Seed,,,Vegetables,,,,,,
 CRID,SQS,Summer squash,Cucurbita pepo,Vegetable,,,,,,C3,Annual,,,Fruit,,N,Seed,,,Vegetables,,,,,,
-CRID,SQW,Winter squash,Cucurbita moschata,Vegetable,,,,,,C3,Annual,,,Fruit,,N,Seed,,,Vegetables,,,,,,
+CRID,SQW,Winter squash,Cucurbita moschata,Vegetable,,,,,,C3,Annual,,,Fruit,,N,Seed,,,Vegetables,CRGRO,CRGRO-WinterSquash,,,,
 CRID,STB,Strawberry,Fragaria spp.,Fruit,,,SR,,,C3,Annual,,,Fruit,,N,Runners,,en.wikipedia.org/wiki/Strawberry,Fruit crops,CRGRO,CRGRO-Strawberry,,,,
 CRID,STR,Shrubs/trees,(various),NA,,,ST,Tree,,C3,Perennial,,,,,N,,,,Various,,,,,,
 CRID,STV,Stevia,Stevia rebaudiana,Artificial sweetener,,,SV,,,,Perennial,,,Leaves,,N,Seeds,Cuttings,en.wikipedia.org/wiki/Stevia_rebaudiana,Various,,,,,,
