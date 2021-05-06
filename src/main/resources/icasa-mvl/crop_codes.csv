@@ -28,7 +28,7 @@ CRID,CCN,Coconut,Cocos nucifera,Oil seed,,,CC,Coconut,,C3,Perennial,,,Seed,Stage
 CRID,CEL,Celery,Apium graveolens,Vegetable,,,,,,C3,Annual,SD/LD,Y,Shoot,,N,Seed,,en.wikipedia.org/wiki/Celery,Vegetables,,,,,,
 CRID,CFE,Coffee,Coffea spp.,Beverage,,"C. arabica, C. rustica",CF,Coffee,,C3,Perennial,,,Fruit,,N,Seed,,en.wikipedia.org/wiki/Coffee,Beverage,,,,,,
 CRID,CGR,Concord grape,Vitis labrusca,Fruit,,Concord grape,CG,Concordgrape,,C3,Perennial,,,Fruit,,N,Transplant,,en.wikipedia.org/wiki/Concord_grape,Fruit Crops,,,,,,
-CRID,CHI,Chia,Salvia hispanica,Pseudocereal,,,CI,Chia,,C3,Annual,SD,,Seed,Stage,N,Seed,,en.wikipedia.org/wiki/Salvia_hispanica,Cereals,CRGRO,,,,,
+CRID,CHI,Chia,Salvia hispanica,Pseudocereal,,,CI,Chia,,C3,Annual,SD,,Seed,Stage,N,Seed,,en.wikipedia.org/wiki/Salvia_hispanica,Cereals,CRGRO,CROPGRO-Chia,,,,
 CRID,CHN,Chestnut,Castanea spp.,Nut,,,,,,C3,Perennial,,,Seed,,N,,,en.wikipedia.org/wiki/Chestnut,Nut,,,,,,
 CRID,CHP,Chickpea,Cicer arietenum,Pulse,,Garbanzo,CH,Chickpea,,C3,Annual,LD,,Seed,,Y,Seed,,en.wikipedia.org/wiki/Chickpea,Legumes,CRGRO,CROPGRO-Chickpea,,,,
 CRID,CHR,Cherry,Prunus spp.,Fruit,,Many species,CY,Cherry,,C3,Perennial,,,Fruit,,N,Transplant,,en.wikipedia.org/wiki/Cherry,Fruit crops,,,,,,
