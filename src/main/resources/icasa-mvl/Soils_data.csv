@@ -87,7 +87,7 @@ soil_organic_matter_layer,25,SLOM,4,SLOM,,,Total soil organic matter by layer,kg
 soil_pH_in_buffer,17,SLPHB,5,SLPHB,16,,"pH of soil measured in buffer solution, from profile description",number,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,SLHB,,,,1,-1,0,,,
 soil_pH_in_water,16,SLPHW,5,SLPHW,17,,"pH of soil in water, from profile description",number,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,SLHW,,,,1,,2,2,,
 soil_water_residual,19,SLRES,5,SLRES,18,,"Soil water, residual",cm3/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,,,,,,1,-1,,,,
-soil_bulk_density_moist,23,SLBDM,5,SLBDM,18,,Soil bulk density when moist for layer,g/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,.,0,,,1,,2,2,,
+soil_bulk_density_moist,23,SLBDM,5,SLBDM,18,,Soil bulk density with volume determined when soil is moist (approx. 33 kPa = 1/3 bar),g/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,.,0,,,1,,2,2,,
 soil_water_lower_limit,22,SLLL,4,SLLL,21,,"Soil water, lower limit",cm3/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,.,0,,,1,,2,2,,
 soil_water_wilting_pt,21,SLWP,4,SLWP,22,,Soil water content (wilting point) at 15 atmosphere pressure ,cm3/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,.,0,,,1,,1,1,,
 soil_water_field_cap_1,22,SLFC1,5,SLFC1,23,,Soil water content at 1/3 atmosphere pressure,cm3/cm3,single,,SOIL,SOIL_PROFILES,SOIL_PROFILE,SOIL_PROFILE_LAYERS,4052,1,,.,.,0,,,1,,1,1,,
